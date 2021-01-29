@@ -1,14 +1,3 @@
-<!--
-title: 'AWS Express application example with Typescript'
-description: 'This example demonstrates how to build an [express](https://github.com/expressjs/express) application for AWS Lambda.'
-layout: Doc
-framework: v2
-platform: AWS
-language: nodeJS
-authorLink: 'https://github.com/HoseungJang'
-authorName: 'Hoseung Jang'
-authorAvatar: 'https://avatars.githubusercontent.com/u/39669819?v=4'
--->
 # Express Application Example
 This example demonstrates how to build an [express](https://github.com/expressjs/express) application for AWS Lambda.
 
