@@ -1,5 +1,5 @@
 # Express Application Example
-This example demonstrates how to build an [express](https://github.com/expressjs/express) application for AWS Lambda.
+This example demonstrates how to build an [express](https://github.com/expressjs/express) application for AWS Lambda based on serverless framework.
 
 ## Overview
 This example built based on [aws-serverless-express](https://www.npmjs.com/package/aws-serverless-express).
